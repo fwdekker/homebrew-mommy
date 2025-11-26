@@ -27,7 +27,7 @@ jobs:
       - name: Checkout mommy
         uses: actions/checkout@v4
         with:
-          repository: FWDekker/mommy
+          repository: fwdekker/mommy
           path: mommy
           ref: main
 

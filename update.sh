@@ -2,7 +2,7 @@
 set -e
 cd -P -- "$(dirname -- "$0")"
 
-BASE="https://github.com/FWDekker/mommy/archive"
+BASE="https://github.com/fwdekker/mommy/archive"
 VERSION="${1:?Version not specified}"
 URL="$BASE/$VERSION.tar.gz"
 
