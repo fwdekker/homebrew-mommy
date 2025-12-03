@@ -1,8 +1,8 @@
 class Mommy < Formula
   desc "mommy's here to support you, in any shell, on any system~ ❤️"
   homepage "https://github.com/fwdekker/mommy"
-  url "https://github.com/fwdekker/mommy/archive/v1.7.0.tar.gz"
-  sha256 "6d56c279193477a292889352de0d2bdac8156148cf90f9f4a3f37d29d3a3e8ee"
+  url "https://github.com/fwdekker/mommy/archive/v1.8.0.tar.gz"
+  sha256 "4fd16238f1f77649b6b7441427d2a91c5badd87be5c4ad54ce58e725e127029f"
   # The 'head' defines the development branch of the recipe
   head "https://github.com/fwdekker/mommy.git", branch: "main"
   license "Unlicense"
